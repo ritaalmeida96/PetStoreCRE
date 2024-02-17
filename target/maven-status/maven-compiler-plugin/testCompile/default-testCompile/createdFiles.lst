@@ -1,0 +1,15 @@
+PetStoreCertfBDD\steps\PetStoreCartTest.class
+PetStoreCertfBDD\steps\PetStoreRegisterTest.class
+PetStoreCertfBDD\steps\PetStorePurchaseTest.class
+PageObjects\RegisterPage.class
+Config\WebDriverConfig.class
+PageObjects\CartPage.class
+Helpers\PageManager.class
+PageObjects\ProductPage.class
+PageObjects\LoginPage.class
+PetStoreCertfBDD\steps\PetStoreLoginTest.class
+PetStoreCertfBDD\steps\PetStoreProductTest.class
+Helpers\Helper.class
+Helpers\ProductManager.class
+PetStoreCertBDD\TestRunner.class
+PageObjects\PurchasePage.class
